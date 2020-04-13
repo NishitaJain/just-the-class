@@ -22,8 +22,8 @@ url: 'https://courses.cs.washington.edu' # the base hostname & protocol for your
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
-remote_theme: pmarsceill/just-the-docs@v0.2.8
-color_scheme: light
+remote_theme: SgtSilvio/just-the-docs@merged
+color_scheme: just-the-class
 search_enabled: true
 heading_anchors: true
 permalink: pretty
